@@ -12,6 +12,7 @@ public class Home1 {
 	        for (int j = 1; j <= n ; j++) {
 	            System.out.print("*");
 
+				
 	    }
 	    return n;
 	    }
